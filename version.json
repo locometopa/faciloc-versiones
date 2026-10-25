@@ -1,8 +1,8 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "fecha": "2026-10-26",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "f2b2f19d0df2166ec074236f889a2b2dce3acf73a6b184e0f49dac8eea5b92f4",
-  "notas": "La prueba de estabilidad ya no activa el AVX Offset: ahora prueba a la frecuencia real que pones (antes 4,8 GHz se medía como 4,6)."
+  "sha256": "42848a785fa53bc238a86ff700d21705e7ec89dadd291a036f8c425ee238bc2c",
+  "notas": "Ventanas de aviso y actualización con el mismo diseño que FACILOC. Incluye lo de la 1.4.1: la prueba ya mide la frecuencia real (sin AVX Offset)."
 }
