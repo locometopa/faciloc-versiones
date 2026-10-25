@@ -1,8 +1,8 @@
 {
-  "version": "1.4.0",
+  "version": "1.4.1",
   "fecha": "2026-10-26",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "9e92c33b50cf373b090d412e042a319f9cf63673512ac12abf73bac9ba743188",
-  "notas": "Interfaz nueva: ventana tipo panel de control, tu BIOS «ahora → quedará» con casillas, pantalla de carga. También funciona en otros PC (sensores, pruebas y refrigeración)."
+  "sha256": "f2b2f19d0df2166ec074236f889a2b2dce3acf73a6b184e0f49dac8eea5b92f4",
+  "notas": "La prueba de estabilidad ya no activa el AVX Offset: ahora prueba a la frecuencia real que pones (antes 4,8 GHz se medía como 4,6)."
 }
