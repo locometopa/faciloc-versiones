@@ -1,8 +1,8 @@
 {
-  "version": "1.7.0",
+  "version": "1.8.0",
   "fecha": "2026-10-26",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "09fea0e3d2d749727c3b49cdb1d46ed93d939c735f8481cdc6f84fb5b46baecc",
-  "notas": "Nuevo: «Mi placa no está soportada» (prepara los datos para añadir tu placa) y perfiles de memoria más rápidos (3466 y 3600) para el kit Crucial."
+  "sha256": "008e769181aaaeef36a10119b4d0bbf3a8246ea0bac9b868f074cf6d54186ce1",
+  "notas": "Nuevo en Ajustes: «Leer la BIOS desde Windows (prueba)». Comprueba si FacilOC puede ver la configuración de la BIOS sin pendrive. Solo lee."
 }
