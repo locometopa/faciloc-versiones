@@ -1,6 +1,6 @@
 <p align="center"><img src="icono.png" width="96" alt=""></p>
 
-# FACILOC · versiones
+# FacilOC · versiones
 
 Descargas de **FACILOC**, asistente de overclock guiado para Windows (hoy: MSI Z370 Gaming Plus con i5-8600K).
 
