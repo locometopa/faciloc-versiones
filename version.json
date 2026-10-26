@@ -1,8 +1,8 @@
 {
-  "version": "1.4.2",
+  "version": "1.5.0",
   "fecha": "2026-10-26",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "42848a785fa53bc238a86ff700d21705e7ec89dadd291a036f8c425ee238bc2c",
-  "notas": "Ventanas de aviso y actualización con el mismo diseño que FACILOC. Incluye lo de la 1.4.1: la prueba ya mide la frecuencia real (sin AVX Offset)."
+  "sha256": "74c693d82d77d4cc2bf3f8fdf82db0ae8fb65f13e1c066acc1f33d0660e2855a",
+  "notas": "Funciona en más PCs: límites por procesador (Intel K 6.ª-14.ª, Ryzen 3000/5000) y guía con los nombres de la BIOS de MSI, ASUS, Gigabyte y ASRock. En tu equipo, todo igual."
 }
