@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
+  "version": "1.6.0",
   "fecha": "2026-10-26",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "74c693d82d77d4cc2bf3f8fdf82db0ae8fb65f13e1c066acc1f33d0660e2855a",
-  "notas": "Funciona en más PCs: límites por procesador (Intel K 6.ª-14.ª, Ryzen 3000/5000) y guía con los nombres de la BIOS de MSI, ASUS, Gigabyte y ASRock. En tu equipo, todo igual."
+  "sha256": "a2285749b45bdb54f91697f8640bbf886843ad645c94d85adba422e31a972b84",
+  "notas": "Prueba dura con y-cruncher, modo eficiente para bajar el voltaje (menos calor) y nuevo estilo de terminal en blanco y negro."
 }
