@@ -1,8 +1,8 @@
 {
-  "version": "1.8.0",
+  "version": "1.9.0",
   "fecha": "2026-10-26",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "008e769181aaaeef36a10119b4d0bbf3a8246ea0bac9b868f074cf6d54186ce1",
-  "notas": "Nuevo en Ajustes: «Leer la BIOS desde Windows (prueba)». Comprueba si FacilOC puede ver la configuración de la BIOS sin pendrive. Solo lee."
+  "sha256": "db5ff7f257917ad36bd1f64cdd1b37db46baeabc5e44c891b699665c869a9ae5",
+  "notas": "«Mi BIOS» enseña lo que tiene ahora tu BIOS, leído desde Windows, y se pueden instalar placas personales."
 }
