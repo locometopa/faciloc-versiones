@@ -1,8 +1,8 @@
 {
-  "version": "1.9.0",
-  "fecha": "2026-10-26",
+  "version": "2.0.0",
+  "fecha": "2026-10-31",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "db5ff7f257917ad36bd1f64cdd1b37db46baeabc5e44c891b699665c869a9ae5",
-  "notas": "«Mi BIOS» enseña lo que tiene ahora tu BIOS, leído desde Windows, y se pueden instalar placas personales."
+  "sha256": "77eb391cc3acc7d807307a512a7cd44d5e768b34bf203c0dbb0e9ead7d79f8b6",
+  "notas": "Nueva organización en cuatro pasos (Equipo, Objetivo, BIOS, Validar) con Inicio y Herramientas, y diseño oscuro moderno. Placas personales recuperables desde tu GitHub."
 }
