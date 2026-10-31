@@ -1,8 +1,8 @@
 {
-  "version": "2.0.0",
+  "version": "2.1.0",
   "fecha": "2026-10-31",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "77eb391cc3acc7d807307a512a7cd44d5e768b34bf203c0dbb0e9ead7d79f8b6",
-  "notas": "Nueva organización en cuatro pasos (Equipo, Objetivo, BIOS, Validar) con Inicio y Herramientas, y diseño oscuro moderno. Placas personales recuperables desde tu GitHub."
+  "sha256": "5ec6c88117193b332bc5a4977442e4341d2cba6593b573bc8e157a081ab26ba1",
+  "notas": "Asistente «Añadir mi placa»: cualquier placa con BIOS AMI puede leer y crear perfiles de BIOS como la Z370. Base de conocimiento de placas en tu GitHub. Arregladas las tildes rotas."
 }
