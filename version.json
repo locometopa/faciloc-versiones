@@ -1,8 +1,8 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.5",
   "fecha": "2026-11-01",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "001a061402a8c29e171ebd7b138bc031bc1d508a4835541cd91c6a6b4fcd1dc3",
-  "notas": "Arreglada la lista de sensores (sensores.txt y Herramientas › Sensores). Temperaturas de gráficas NVIDIA e Intel."
+  "sha256": "952fbe345de92688b0e8254fcf2faeeaee933ae3a5f7f552d46587a266cf2e9f",
+  "notas": "Si la CPU no da datos (0 °C), FacilOC reinstala el controlador PawnIO y lo explica."
 }
