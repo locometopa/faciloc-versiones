@@ -1,8 +1,8 @@
 {
-  "version": "2.1.0",
-  "fecha": "2026-10-31",
+  "version": "2.1.1",
+  "fecha": "2026-11-01",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "5ec6c88117193b332bc5a4977442e4341d2cba6593b573bc8e157a081ab26ba1",
-  "notas": "Asistente «Añadir mi placa»: cualquier placa con BIOS AMI puede leer y crear perfiles de BIOS como la Z370. Base de conocimiento de placas en tu GitHub. Arregladas las tildes rotas."
+  "sha256": "22fe482f2b24e9add7bc8b50ab29883e5e35d15b54eaf644fdcba6361ee7af47",
+  "notas": "Perfiles de BIOS con varios bloques (AMD CBS: PBO y límites) y «Potencia de la CPU» en el paso 2. El asistente reconoce más tipos de suma de control."
 }
