@@ -1,8 +1,8 @@
 {
-  "version": "2.1.1",
+  "version": "2.1.2",
   "fecha": "2026-11-01",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "22fe482f2b24e9add7bc8b50ab29883e5e35d15b54eaf644fdcba6361ee7af47",
-  "notas": "Perfiles de BIOS con varios bloques (AMD CBS: PBO y límites) y «Potencia de la CPU» en el paso 2. El asistente reconoce más tipos de suma de control."
+  "sha256": "ad703fefeaad4fedd0a19aad88c2ba737228ce28f1fde6f74eaf07bb17eff433",
+  "notas": "Temperatura de la CPU en más equipos (con el sensor de la placa si hace falta) y la memoria en «1 · Equipo»."
 }
