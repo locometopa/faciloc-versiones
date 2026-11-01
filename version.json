@@ -1,8 +1,8 @@
 {
-  "version": "2.1.2",
+  "version": "2.1.3",
   "fecha": "2026-11-01",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "ad703fefeaad4fedd0a19aad88c2ba737228ce28f1fde6f74eaf07bb17eff433",
-  "notas": "Temperatura de la CPU en más equipos (con el sensor de la placa si hace falta) y la memoria en «1 · Equipo»."
+  "sha256": "48939d19465e830f0e579c42a8057af97679530cab7d3978e3632cf4e061d18f",
+  "notas": "Herramientas › Sensores: todos los sensores en vivo y «Guardar en sensores.txt»."
 }
