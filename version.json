@@ -1,8 +1,8 @@
 {
-  "version": "2.1.7",
+  "version": "2.1.8",
   "fecha": "2026-11-02",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "043d4d2cccdc5001caadce96f1cdfc4f6d31f0dd09bc9cdaf58b5450c8807800",
-  "notas": "Paso 4: después de validar te dice qué hacer (subir la memoria, volver atrás o tu configuración final con el perfil y lo de a mano)."
+  "sha256": "a7689dabe165a2264edf8206edd841bedab627b1e4ced37e8130839a670affbc",
+  "notas": "Botón «Volver a empezar» en Inicio y en el paso 4."
 }
