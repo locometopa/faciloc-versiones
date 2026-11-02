@@ -1,8 +1,8 @@
 {
-  "version": "2.2.1",
+  "version": "2.2.2",
   "fecha": "2026-11-02",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "14820296df87c6d9aed43dd14e40a6ec0d7e45014b7c5ab341b5f7fb66593dab",
-  "notas": "Logo de arranque también para la MSI Z370 (y placas con el logo en medio de la BIOS)."
+  "sha256": "6cd7b4a4286886c3ef36c8cb746e4dae1d862990e578471498346cbc07e07570",
+  "notas": "Logo de arranque: guarda el logo y la BIOS originales, para editarlo o restaurar el de fábrica."
 }
