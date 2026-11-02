@@ -1,8 +1,8 @@
 {
-  "version": "2.1.5",
-  "fecha": "2026-11-01",
+  "version": "2.1.6",
+  "fecha": "2026-11-02",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "952fbe345de92688b0e8254fcf2faeeaee933ae3a5f7f552d46587a266cf2e9f",
-  "notas": "Si la CPU no da datos (0 °C), FacilOC reinstala el controlador PawnIO y lo explica."
+  "sha256": "7209aefae64b86c9e19cb246d6a7292630971f71ce443397e5e8aa29a570cdc6",
+  "notas": "Niveles de memoria para tu kit (XMP 3200, Rápido 3466, Máximo 3600) en las placas personales."
 }
