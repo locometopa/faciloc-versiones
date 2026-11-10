@@ -1,8 +1,8 @@
 {
-  "version": "2.3.0",
-  "fecha": "2026-11-03",
+  "version": "2.4.0",
+  "fecha": "2026-11-10",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "bd8de56fcc8a5958d806a221cbd75c778a5255ca4c1834e01979c24919a04896",
-  "notas": "Nuevo instalador (Instalar-FacilOC.exe) con acceso directo, y desinstalación desde Configuración › Aplicaciones."
+  "sha256": "2b5c30050ccd957eab4342960a1662989526d539db564488cb6c7ae2b1939c47",
+  "notas": "Overclock por FSB para Core 2 y Xeon 5400 en LGA775 (BIOS Award de Gigabyte)."
 }
