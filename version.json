@@ -1,8 +1,8 @@
 {
-  "version": "2.4.1",
-  "fecha": "2026-11-10",
+  "version": "2.4.2",
+  "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "fca9cd80a4029d62fa6ea2d294f7fbf9b25bb45c90b0d66a04319d36aeff4d64",
-  "notas": "BIOS Award de Gigabyte afinada con una EP35-DS3R real."
+  "sha256": "0afe6d1b244629ada56bfb753e046b68e24ecdf4be36dedb94ab93e355f178bc",
+  "notas": "Los pasos van siempre en orden: cada paso dice si está hecho o si te toca, y avisa si te has saltado uno."
 }
