@@ -1,8 +1,8 @@
 {
-  "version": "2.4.3",
+  "version": "2.4.4",
   "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "f443426f4549ecdf470248163cef6d9488902f87cbd5842a39f3f98e13e5b9cf",
-  "notas": "Guía PDF con el diseño de FacilOC y botón «QR para el móvil» en el paso 3."
+  "sha256": "c06d1aa76e0c38dc281daf5e7869f48268a3b6cd033640f9d1fd367ef9431754",
+  "notas": "FSB: la comprobación de que la BIOS tiene los valores ya no falla con EIST/C1E."
 }
