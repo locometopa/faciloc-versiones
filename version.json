@@ -1,8 +1,8 @@
 {
-  "version": "2.4.2",
+  "version": "2.4.3",
   "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "0afe6d1b244629ada56bfb753e046b68e24ecdf4be36dedb94ab93e355f178bc",
-  "notas": "Los pasos van siempre en orden: cada paso dice si está hecho o si te toca, y avisa si te has saltado uno."
+  "sha256": "f443426f4549ecdf470248163cef6d9488902f87cbd5842a39f3f98e13e5b9cf",
+  "notas": "Guía PDF con el diseño de FacilOC y botón «QR para el móvil» en el paso 3."
 }
