@@ -1,8 +1,8 @@
 {
-  "version": "2.4.8",
+  "version": "2.5.0",
   "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "0b2be177bcb35a1941a11b45465b1028166eec9a60212b0dad4340029e1bd037",
-  "notas": "Aviso claro cuando la CPU vuelve a su frecuencia de serie, con cómo averiguar por qué."
+  "sha256": "706b2264cf8f13a21d31219422f33d052664a8cb7491dda73e2f9f3729dae782",
+  "notas": "Nuevo: Herramientas › Inventario de equipos (todo lo que lleva cada PC, junto en tu GitHub y en PDF)."
 }
