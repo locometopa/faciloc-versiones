@@ -1,8 +1,8 @@
 {
-  "version": "2.4.7",
+  "version": "2.4.8",
   "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "d0cef91c511b2503338e092d77d57218aa30944f9bb53d60ed14e05d9ca0f568",
-  "notas": "FSB: FacilOC mide la frecuencia real él mismo, sin depender de los sensores."
+  "sha256": "0b2be177bcb35a1941a11b45465b1028166eec9a60212b0dad4340029e1bd037",
+  "notas": "Aviso claro cuando la CPU vuelve a su frecuencia de serie, con cómo averiguar por qué."
 }
