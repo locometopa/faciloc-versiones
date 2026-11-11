@@ -1,8 +1,8 @@
 {
-  "version": "2.4.5",
+  "version": "2.4.6",
   "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "ee699a8e43a27322bbcbe2892a3f7785d289cac621aa9e8744b0bc7ee79f5aa3",
-  "notas": "FSB: la frecuencia real del Xeon con adaptador sale de Windows (el sensor daba la de serie)."
+  "sha256": "6a6070640fa8465fb7a307a05527cc45509dea740174c094f5ac57363d2ceeb2",
+  "notas": "Detecta cuando la placa vuelve sola a los valores de serie porque no arrancó con el overclock."
 }
