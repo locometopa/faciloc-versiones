@@ -1,8 +1,8 @@
 {
-  "version": "2.4.4",
+  "version": "2.4.5",
   "fecha": "2026-11-11",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "c06d1aa76e0c38dc281daf5e7869f48268a3b6cd033640f9d1fd367ef9431754",
-  "notas": "FSB: la comprobación de que la BIOS tiene los valores ya no falla con EIST/C1E."
+  "sha256": "ee699a8e43a27322bbcbe2892a3f7785d289cac621aa9e8744b0bc7ee79f5aa3",
+  "notas": "FSB: la frecuencia real del Xeon con adaptador sale de Windows (el sensor daba la de serie)."
 }
