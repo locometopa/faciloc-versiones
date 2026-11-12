@@ -1,8 +1,8 @@
 {
-  "version": "2.5.4",
+  "version": "2.6.0",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "652917504cef6f9f1e9a7e889c8942d69052587dfee2cef5107a14324777166e",
-  "notas": "FSB: la frecuencia medida ya no se queda corta (3690 MHz = 3,7 GHz)."
+  "sha256": "688725de178bb9c62cb809161fdad09fc5f892811c7bea8f8d84a5db01362353",
+  "notas": "Herramientas reordenadas por temas: Actividad, BIOS, Placas, Equipos y FacilOC."
 }
