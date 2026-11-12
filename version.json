@@ -1,8 +1,8 @@
 {
-  "version": "2.5.2",
+  "version": "2.5.3",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "b1adbc0d394455f650703e7481a8a7f57acb430820999aae3dd421ffb3f67a6a",
-  "notas": "Inventario: los demás equipos se traen solos de GitHub; botón «Ver en GitHub»."
+  "sha256": "42dde1bbf124acdb801bdee9a398cf647aba7417d97be3c2814a02f0841a307b",
+  "notas": "Lleva tu clave de GitHub a tus otros PCs en un archivo protegido con contraseña."
 }
