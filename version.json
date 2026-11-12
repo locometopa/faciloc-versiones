@@ -1,8 +1,8 @@
 {
-  "version": "2.7.1",
+  "version": "2.7.2",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "f146603d8412c5a318641cc4af04db02d74cba5a4d60be2c0301ea2436625c5d",
-  "notas": "ASUS P55: la memoria sale en la guía con el nombre de la opción de «DRAM Frequency»."
+  "sha256": "148d22e0b9662957c60abcbdc0d9735749e5fc31a020f6231d3a138bf2f187fa",
+  "notas": "Al subir la frecuencia a mano, el voltaje sube con ella."
 }
