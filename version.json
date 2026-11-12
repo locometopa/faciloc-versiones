@@ -1,8 +1,8 @@
 {
-  "version": "2.5.1",
-  "fecha": "2026-11-11",
+  "version": "2.5.2",
+  "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "ce050ee18014c8755dd24b48e29409168b09eb3f85ffb72ba9e146db4a826cf2",
-  "notas": "Inventario: arreglado el error al detectar el equipo."
+  "sha256": "b1adbc0d394455f650703e7481a8a7f57acb430820999aae3dd421ffb3f67a6a",
+  "notas": "Inventario: los demás equipos se traen solos de GitHub; botón «Ver en GitHub»."
 }
