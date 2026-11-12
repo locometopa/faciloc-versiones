@@ -4,7 +4,7 @@
 
 Descargas de **FACILOC**, asistente de overclock guiado para Windows (hoy: MSI Z370 Gaming Plus con i5-8600K).
 
-**Última versión: 2.5.3** → [Instalar-FacilOC.exe](https://github.com/locometopa/faciloc-versiones/raw/main/Instalar-FacilOC.exe) (recomendado) · [FACILOC.exe](https://github.com/locometopa/faciloc-versiones/raw/main/FACILOC.exe) suelto
+**Última versión: 2.5.4** → [Instalar-FacilOC.exe](https://github.com/locometopa/faciloc-versiones/raw/main/Instalar-FacilOC.exe) (recomendado) · [FACILOC.exe](https://github.com/locometopa/faciloc-versiones/raw/main/FACILOC.exe) suelto
 
 1. Abre `Instalar-FacilOC.exe`: lo instala en su carpeta con acceso directo en el escritorio y el menú Inicio, y si ya tenías un `FACILOC.exe` con su carpeta `datos\` se trae tus datos.
 2. FacilOC pide permisos de administrador al abrirse (para leer los sensores) y se actualiza solo (te pregunta antes).
@@ -14,6 +14,7 @@ Descargas de **FACILOC**, asistente de overclock guiado para Windows (hoy: MSI Z
 
 ## Cambios
 
+- **2.5.4** — FSB: medida de frecuencia corregida.
 - **2.5.3** — Clave de GitHub para tus otros PCs, protegida con contraseña.
 - **2.5.2** — Inventario sincronizado solo con GitHub.
 - **2.5.1** — Inventario: arreglado el error al detectar el equipo.

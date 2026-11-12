@@ -1,8 +1,8 @@
 {
-  "version": "2.5.3",
+  "version": "2.5.4",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "42dde1bbf124acdb801bdee9a398cf647aba7417d97be3c2814a02f0841a307b",
-  "notas": "Lleva tu clave de GitHub a tus otros PCs en un archivo protegido con contraseña."
+  "sha256": "652917504cef6f9f1e9a7e889c8942d69052587dfee2cef5107a14324777166e",
+  "notas": "FSB: la frecuencia medida ya no se queda corta (3690 MHz = 3,7 GHz)."
 }
