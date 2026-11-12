@@ -1,8 +1,8 @@
 {
-  "version": "2.6.0",
+  "version": "2.6.1",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "688725de178bb9c62cb809161fdad09fc5f892811c7bea8f8d84a5db01362353",
-  "notas": "Herramientas reordenadas por temas: Actividad, BIOS, Placas, Equipos y FacilOC."
+  "sha256": "d0e1c11e4632bd6f91f7f64071a49e2626b5a332b8e7b64a147d3df4d90e3315",
+  "notas": "Inventario: la memoria de las gráficas de más de 4 GB (p. ej. GTX 1070 Ti de 8 GB) y las tarjetas de red sin cable salen bien."
 }
