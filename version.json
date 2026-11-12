@@ -1,8 +1,8 @@
 {
-  "version": "2.7.0",
+  "version": "2.7.1",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "2835005bdd3a3c30d9389aa3bb01a2c5e0dc9ce22e9c02215d38a71fde6f31e7",
-  "notas": "Overclock por BCLK para Xeon X3440 y Core i5/i7 800 (LGA1156) y nombres de las BIOS ASUS de P55."
+  "sha256": "f146603d8412c5a318641cc4af04db02d74cba5a4d60be2c0301ea2436625c5d",
+  "notas": "ASUS P55: la memoria sale en la guía con el nombre de la opción de «DRAM Frequency»."
 }
