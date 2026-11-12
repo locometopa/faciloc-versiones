@@ -1,8 +1,8 @@
 {
-  "version": "2.6.1",
+  "version": "2.7.0",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "d0e1c11e4632bd6f91f7f64071a49e2626b5a332b8e7b64a147d3df4d90e3315",
-  "notas": "Inventario: la memoria de las gráficas de más de 4 GB (p. ej. GTX 1070 Ti de 8 GB) y las tarjetas de red sin cable salen bien."
+  "sha256": "2835005bdd3a3c30d9389aa3bb01a2c5e0dc9ce22e9c02215d38a71fde6f31e7",
+  "notas": "Overclock por BCLK para Xeon X3440 y Core i5/i7 800 (LGA1156) y nombres de las BIOS ASUS de P55."
 }
