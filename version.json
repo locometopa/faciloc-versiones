@@ -1,8 +1,8 @@
 {
-  "version": "2.8.1",
+  "version": "2.9.0",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "c4427a1ded2ecce26817a12448bda86ddd6b9427f68d499837640c7b3e9a8024",
-  "notas": "ASRock P67: nombres reales de su BIOS y voltaje con Additional Turbo Voltage."
+  "sha256": "344be4ad15bec93d3f8a8d8adf9539d97376f1899f91d29c814121b99c517c06",
+  "notas": "Gráficas Polaris y Vega: niveles para Adrenalin y prueba de carga. 2500K hasta 4,6 GHz."
 }
