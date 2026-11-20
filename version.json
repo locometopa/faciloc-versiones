@@ -1,8 +1,8 @@
 {
-  "version": "2.10.0",
+  "version": "2.10.1",
   "fecha": "2026-11-12",
   "archivo": "FACILOC.exe",
   "url": "https://raw.githubusercontent.com/locometopa/faciloc-versiones/main/FACILOC.exe",
-  "sha256": "009cc10f6614a49c165a0355dd411debd003b72f4870fdc2812f44ba20f274a7",
-  "notas": "Perfiles para importar en Adrenalin (Polaris y Vega), creados a partir del perfil exportado de tu tarjeta."
+  "sha256": "19667c7c90a27b40ed5531179988d2da505c54b36bfefc2f145263c4b8986e9b",
+  "notas": "Perfiles de Adrenalin: formato del Adrenalin nuevo y voltajes según la frecuencia de fábrica de la tarjeta."
 }
